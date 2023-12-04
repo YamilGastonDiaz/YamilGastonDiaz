@@ -48,7 +48,7 @@
 
 <div align="center">
 	
-<a href="https://github.com/YamilGastonDiaz/">
+<a href="">
 
 <img src="https://github-readme-stats.vercel.app/api?username=YamilGastonDiaz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=16FF00&icon_color=AF2655&text_color=D3D3D3&bg_color=383838" width="450"/>
 
