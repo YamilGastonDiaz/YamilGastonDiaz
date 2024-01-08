@@ -13,7 +13,7 @@
 
 <br>
 
-- A
+- I’m currently studying on <img src="https://img.shields.io/badge/UTN FRGP-2F3134?style=for-the-badge&logo=UTN FRGP&logoColor=white">
 - completar
 - mas
 - adelante
