@@ -13,11 +13,11 @@
 
 <br>
 
-- I’m currently studying on <img src="https://img.shields.io/badge/UTN FRGP-2F3134?style=for-the-badge&logo=UTN FRGP&logoColor=white">
-- completar
-- mas
-- adelante
-- no olvidar
+- I am a university student of technical programming
+- I’m currently learning C++
+- In my free time, I enjoy watching anime, and I also like to go running as a hobby
+- I’m currently open for an Intern or a new job opportunity, this is [my CV](https://https://read.cv/yamil)
+- Feel free to communicate with me anytime
 
 <br>
 
