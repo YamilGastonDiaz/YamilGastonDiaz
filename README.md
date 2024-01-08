@@ -16,7 +16,7 @@
 - I am a university student of technical programming
 - I’m currently learning C++
 - In my free time, I enjoy watching anime, and I also like to go running as a hobby
-- I’m currently open for an Intern or a new job opportunity, this is [my CV](https://https://read.cv/yamil)
+- I’m currently open for an Intern or a new job opportunity, this is [my CV](https://read.cv/yamil)
 - Feel free to communicate with me anytime
 
 <br>
