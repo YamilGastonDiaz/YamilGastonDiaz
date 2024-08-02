@@ -3,8 +3,9 @@
 | [ _About me_ ](#about-me) | [ _Skill_ ](#skill) | [ _Github stats_ ](#github-stats) | [ _Contact us_ ](#contact-us) |
 | ------------------------- | ------------------- | --------------------------------- | ----------------------------- |
 
+<p  align="center">
 <img src="https://miro.medium.com/v2/resize:fit:2000/1*IRFhWNqusUWbTsB1hQXhrQ.gif" height="350" align="center" alt="progrmando">
-
+</p>
 
 ### **ABOUT ME**
 
