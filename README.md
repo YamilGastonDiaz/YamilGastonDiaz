@@ -49,7 +49,7 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 -->
-<br>
+<br><br>
 
 [_BACK TO TOP_](#hi-i-am-yamil)
 
@@ -73,15 +73,15 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 <a href= "mailto:yamiil.gaston.diaz@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail:  YAMIL DIAZ-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
 </a>
-<br>
+<br><br>
 <a href="https://api.whatsapp.com/send?phone=+543885844510&text=hola">
   <img src="https://img.shields.io/badge/whatsapp: YAMIL DIAZ-%2325D366?style=for-the-badge&logo=WhatsApp&logoColor=%23FFFF" alt=wapp style="margin-bottom: 5px;"/>
 </a>
-<br>
+<br><br>
 <a href="https://www.linkedin.com/in/yamil-gaston-diaz/" target="\_blank">
   <img src="https://img.shields.io/badge/linkedin: YAMIL DIAZ-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-<br>
+<br><br>
 
 [_BACK TO TOP_](#hi-i-am-yamil)
 
