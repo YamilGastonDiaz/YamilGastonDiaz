@@ -1,21 +1,17 @@
 # _**Hi. I am Yamil**_
 
-<nav>
-  <lo>
-    <li>[ _About me_ ](#about-me)</li>
-    <li>[ _Skill_ ](#skill)</li>
-    <li>[ _Github stats_ ](#github-stats) </li>
-    <li>[ _Contact us_ ](#contact-us) </li>
-  </lo>
-</nav>
+| [ _About me_ ](#about-me) | [ _Skill_ ](#skill) | [ _Github stats_ ](#github-stats) | [ _Contact us_ ](#contact-us) |
+| ------------------------- | ------------------- | --------------------------------- | ----------------------------- |
 
 ![PROGRAMACIO IMG](https://miro.medium.com/v2/resize:fit:2000/1*IRFhWNqusUWbTsB1hQXhrQ.gif)
+
 
 ### **ABOUT ME**
 
 ---
 
 Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (anónimo) usó una galera de tipos y los mezcló de tal manera que logró fabricar un libro de muestras tipográficas. No sólo sobrevivió cinco siglos, sino que también ingresó a la composición tipográfica electrónica, permaneciendo esencialmente inalterado. Se popularizó en la década de 1960 con la publicación de las hojas Letraset que contenían pasajes de Lorem Ipsum y, más recientemente, con el uso de software de autoedición como Aldus PageMaker, que incluía versiones de Lorem Ipsum.
+
 
 [_BACK TO TOP_](#hi-i-am-yamil)
 
@@ -54,6 +50,7 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 -->
 
+
 [_BACK TO TOP_](#hi-i-am-yamil)
 
 ### **GITHUB STATS**
@@ -66,28 +63,25 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YamilGastonDiaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
 [_BACK TO TOP_](#hi-i-am-yamil)
 
 ### **CONTACT US**
 
 ---
-<li>
-  <a href= "mailto:yamiil.gaston.diaz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail:  YAMIL DIAZ-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
-  </a>
-</li>
 
-<li>
-  <a href="https://api.whatsapp.com/send?phone=+543885844510&text=hola">
-    <img src="https://img.shields.io/badge/whatsapp: YAMIL DIAZ-%2325D366?style=for-the-badge&logo=WhatsApp&logoColor=%23FFFF" alt=wapp style="margin-bottom: 5px;"/>
-  </a>
-</li>
+<a href= "mailto:yamiil.gaston.diaz@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail:  YAMIL DIAZ-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
+</a>
+<br>
+<a href="https://api.whatsapp.com/send?phone=+543885844510&text=hola">
+  <img src="https://img.shields.io/badge/whatsapp: YAMIL DIAZ-%2325D366?style=for-the-badge&logo=WhatsApp&logoColor=%23FFFF" alt=wapp style="margin-bottom: 5px;"/>
+</a>
+<br>
+<a href="https://www.linkedin.com/in/yamil-gaston-diaz/" target="\_blank">
+  <img src="https://img.shields.io/badge/linkedin: YAMIL DIAZ-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
 
-<li>
-  <a href="https://www.linkedin.com/in/yamil-gaston-diaz/" target="\_blank">
-    <img src="https://img.shields.io/badge/linkedin: YAMIL DIAZ-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-  </a>
-</li>
 
 [_BACK TO TOP_](#hi-i-am-yamil)
 
