@@ -49,7 +49,7 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 -->
-
+<br>
 
 [_BACK TO TOP_](#hi-i-am-yamil)
 
@@ -62,7 +62,7 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YamilGastonDiaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+<br>
 
 [_BACK TO TOP_](#hi-i-am-yamil)
 
@@ -81,7 +81,7 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 <a href="https://www.linkedin.com/in/yamil-gaston-diaz/" target="\_blank">
   <img src="https://img.shields.io/badge/linkedin: YAMIL DIAZ-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-
+<br>
 
 [_BACK TO TOP_](#hi-i-am-yamil)
 
