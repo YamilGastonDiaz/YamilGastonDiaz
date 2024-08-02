@@ -86,6 +86,6 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 [_BACK TO TOP_](#hi-i-am-yamil)
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&pause=1000&color=06D001&center=true&vCenter=&width=435&lines=Thanks+for+stopping+by.;+Cheers!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&pause=1000&color=06D001&vCenter=true&width=435&lines=Thanks+for+stopping+by.;+Cheers!)](https://git.io/typing-svg)
 
 ###### Created by [Yamil Diaz](#hi-i-am-yamil) .
