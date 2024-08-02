@@ -67,7 +67,7 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
 [_BACK TO TOP_](#hi-i-am-yamil)
 
-### **CONTACT US**  :mailbox_closed:
+### **CONTACT US**
 
 ---
 
