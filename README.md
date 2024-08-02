@@ -1,6 +1,6 @@
 # _**Hi. I am Yamil**_
 
-| [ About me_](#about-me) | [_My Skill_](#my-skill) | [ Github stats ](#github-stats) | [_Contact us_](#contact-us) |
+| [_About me_](#about-me) | [_My Skill_](#my-skill) | [_Github stats_](#github-stats) | [_Contact us_](#contact-us) |
 | ------------------------- | ------------------- | --------------------------------- | ----------------------------- |
 
 <p  align="center">
