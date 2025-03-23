@@ -22,10 +22,9 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=%23FFFF)
 
-
 ![C#](https://img.shields.io/badge/c%23-purple.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.Net](https://img.shields.io/badge/5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=&logoColor=white)
 
