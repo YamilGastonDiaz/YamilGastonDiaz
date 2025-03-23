@@ -20,21 +20,19 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
 ---
 
-##### _LENGUAGES_ :
-
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=%23FFFF)
 
-<!--
+
 ![C#](https://img.shields.io/badge/c%23-purple.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-##### _DATABASES_ :
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=&logoColor=white)
 
-
+<!--
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-##### _FRAMEWORKS_ :
+
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
@@ -88,6 +86,6 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 [_BACK TO TOP_](#hi-i-am-yamil)
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&pause=1000&color=06D001&vCenter=true&width=435&lines=Thanks+for+stopping+by.;+Cheers!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=35&pause=1000&color=06D001&vCenter=true&width=435&lines=Thanks.;+Cheers!)](https://git.io/typing-svg)
 
 ###### Created by [Yamil Diaz](#hi-i-am-yamil) .
